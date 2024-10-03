@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaili</h1>
-<h3 align="center">Python lover | Data geek | AI/ML newbie | Eager to learn and contribute"</h3>
+<h3 align="center">Python lover | Data geek | AI/ML newbie | Eager to learn and contribute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailigajera&label=Profile%20views&color=0e75b6&style=flat" alt="shailigajera" /> </p>
 
